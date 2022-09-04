@@ -1,1 +1,5 @@
-hey hello
+<<<<<<< Updated upstream
+hey hello partA
+=======
+hi hello iam devops partB
+>>>>>>> Stashed changes
